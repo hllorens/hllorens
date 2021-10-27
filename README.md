@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hllorens
-- 👀 I’m interested in ai, nlp, javascript, git, threejs, tensorflow
+- 👀 I’m interested in ai, nlp, javascript, git, threejs, tensorflow and also economy and investing
 - 🌱 I’m currently learning threejs
-- 💞️ I’m looking to collaborate on threejs and tensorflow latest updates.
+- 💞️ I’m looking to collaborate on threejs and tensorflow.
 - 📫 Reach me at cognitionis.com
 
 <!---
