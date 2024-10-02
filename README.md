@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hllorens
 - 👀 I’m interested in ai, nlp, python, javascript, git, and also economics and investing
-- 💞️ I’m looking to collaborate on pytorch and tensorflow.
 - 📫 Reach me at cognitionis.com
 
 <!---
