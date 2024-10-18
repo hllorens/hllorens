@@ -1,4 +1,4 @@
-- 👀 I’m interested in ai, nlp, python, javascript, git, and also economics and investing
+- 👀 I’m interested in AI, ML, Python, JavaScript
 - 📫 Reach me at cognitionis.com
 
 <!---
