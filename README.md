@@ -1,4 +1,4 @@
-- 👀 I’m interested in AI, ML, Python, JavaScript
+- 👀 I’m interested in AI, ML, Python, Jenkins, Vim, JavaScript
 - 📫 Reach me at cognitionis.com
 
 <!---
