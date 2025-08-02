@@ -1,5 +1,5 @@
-- 👀 I’m interested in AI, ML, Python, Jenkins, Vim, JavaScript
-- 📫 Reach me at cognitionis.com
+- 👀 I’m interested in AI, Python, Jenkins, Vim, and JavaScript
+- 📫 Reach me at LinkedIn
 
 <!---
 hllorens/hllorens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
